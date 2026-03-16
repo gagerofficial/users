@@ -1,0 +1,5 @@
+date=2026-03-16
+busz=Mercedes-Benz Citaro O530G FL
+vonal=156
+rendszam=AL-VG 161
+forda=12
