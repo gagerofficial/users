@@ -6,4 +6,4 @@ forda=F01
 muszak_start=06:00
 muszak_end=14:00
 megjegyzes=Csúcsforgalom, óvatosan
-status=elfogadva
+status=csere
