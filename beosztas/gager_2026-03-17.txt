@@ -1,0 +1,9 @@
+date=2026-03-17
+vonal=131
+busz=MAN Lion's City 12G
+rendszam=AHL-131
+forda=F01
+muszak_start=06:00
+muszak_end=14:00
+megjegyzes=Csúcsforgalom, óvatosan
+status=uj
