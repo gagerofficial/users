@@ -1,0 +1,9 @@
+date=2026-03-19
+vonal=asd
+busz=asd
+rendszam=asd
+forda=asd
+muszak_start=06:00
+muszak_end=14:00
+megjegyzes=nigger
+status=uj
