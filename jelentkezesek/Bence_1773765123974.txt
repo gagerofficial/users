@@ -4,4 +4,4 @@ exp=Van valaemmy
 why=Aaaaaa
 availability=AAAAA
 ts=1773765123974
-status=varakozik
+status=elfogadva
