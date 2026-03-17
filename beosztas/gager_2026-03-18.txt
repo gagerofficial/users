@@ -6,4 +6,4 @@ forda=asd
 muszak_start=06:00
 muszak_end=14:00
 megjegyzes=asd
-status=uj
+status=elfogadva
