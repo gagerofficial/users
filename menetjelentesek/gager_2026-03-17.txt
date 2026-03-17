@@ -1,0 +1,9 @@
+datum=2026-03-17
+vonal=131
+forda=F01
+rendszam=AHL-131
+indulas=06:00
+erkezes=14:00
+megjegyzes=
+statusz=teljesitve
+ts=1773765156708
