@@ -1,0 +1,9 @@
+date=2026-03-20
+vonal=SB12
+busz=AaA
+rendszam=AAA
+forda=aAA
+muszak_start=06:00
+muszak_end=14:00
+megjegyzes=AAA
+status=uj
