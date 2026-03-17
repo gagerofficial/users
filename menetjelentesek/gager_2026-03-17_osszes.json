@@ -27,16 +27,29 @@
       "statusz": "teljesitve",
       "megjegyzes": "",
       "ts": 1773767227422
+    },
+    {
+      "menetszam": "3",
+      "vonal": "131",
+      "forda": "F01",
+      "rendszam": "AHL-131",
+      "indulas_terv": "10:10",
+      "erkezes_terv": "10:47",
+      "erkezes_tenyleges": "10:40",
+      "keses": -7,
+      "statusz": "reszleges",
+      "megjegyzes": "Baleset miatt részleges",
+      "ts": 1773778619308
     }
   ],
   "stats": {
-    "totalMenetek": 2,
+    "totalMenetek": 3,
     "teljesitett": 2,
     "kiesett": 0,
-    "totalKeses": 2,
-    "avgKeses": 1,
+    "totalKeses": -5,
+    "avgKeses": -1.7,
     "kesettDb": 0
   },
-  "ertekeles": "Kiváló",
-  "lezarva": "2026-03-17T17:07:54.658Z"
+  "ertekeles": "Szép",
+  "lezarva": "2026-03-17T20:17:04.604Z"
 }
