@@ -11,5 +11,18 @@
     "statusz": "teljesitve",
     "megjegyzes": "",
     "ts": 1773767199597
+  },
+  {
+    "menetszam": "2",
+    "vonal": "131",
+    "forda": "F01",
+    "rendszam": "AHL-131",
+    "indulas_terv": "08:15",
+    "erkezes_terv": "08:53",
+    "erkezes_tenyleges": "08:53",
+    "keses": 0,
+    "statusz": "teljesitve",
+    "megjegyzes": "",
+    "ts": 1773767227422
   }
 ]
