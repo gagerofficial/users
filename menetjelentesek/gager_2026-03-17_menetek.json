@@ -24,5 +24,18 @@
     "statusz": "teljesitve",
     "megjegyzes": "",
     "ts": 1773767227422
+  },
+  {
+    "menetszam": "3",
+    "vonal": "131",
+    "forda": "F01",
+    "rendszam": "AHL-131",
+    "indulas_terv": "10:10",
+    "erkezes_terv": "10:47",
+    "erkezes_tenyleges": "10:40",
+    "keses": -7,
+    "statusz": "reszleges",
+    "megjegyzes": "Baleset miatt részleges",
+    "ts": 1773778619308
   }
 ]
