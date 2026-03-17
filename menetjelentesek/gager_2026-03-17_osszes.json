@@ -1,0 +1,42 @@
+{
+  "datum": "2026-03-17",
+  "sofor": "gager",
+  "menetek": [
+    {
+      "menetszam": "1",
+      "vonal": "131",
+      "forda": "F01",
+      "rendszam": "AHL-131",
+      "indulas_terv": "07:00",
+      "erkezes_terv": "07:38",
+      "erkezes_tenyleges": "07:40",
+      "keses": 2,
+      "statusz": "teljesitve",
+      "megjegyzes": "",
+      "ts": 1773767199597
+    },
+    {
+      "menetszam": "2",
+      "vonal": "131",
+      "forda": "F01",
+      "rendszam": "AHL-131",
+      "indulas_terv": "08:15",
+      "erkezes_terv": "08:53",
+      "erkezes_tenyleges": "08:53",
+      "keses": 0,
+      "statusz": "teljesitve",
+      "megjegyzes": "",
+      "ts": 1773767227422
+    }
+  ],
+  "stats": {
+    "totalMenetek": 2,
+    "teljesitett": 2,
+    "kiesett": 0,
+    "totalKeses": 2,
+    "avgKeses": 1,
+    "kesettDb": 0
+  },
+  "ertekeles": "Kiváló",
+  "lezarva": "2026-03-17T17:07:54.658Z"
+}
