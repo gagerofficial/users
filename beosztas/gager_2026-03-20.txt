@@ -6,4 +6,4 @@ forda=aAA
 muszak_start=06:00
 muszak_end=14:00
 megjegyzes=AAA
-status=uj
+status=elfogadva
