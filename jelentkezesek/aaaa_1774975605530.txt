@@ -1,0 +1,7 @@
+discord=aaaa
+age=22
+exp=aaa
+why=aaa
+availability=aaa
+ts=1774975605530
+status=varakozik
