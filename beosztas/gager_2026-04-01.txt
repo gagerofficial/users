@@ -6,4 +6,4 @@ forda=F2
 muszak_start=20:08
 muszak_end=14:00
 megjegyzes=
-status=uj
+status=elfogadva
